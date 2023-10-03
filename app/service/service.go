@@ -2,6 +2,6 @@ package service
 
 import "fmt"
 
-func GetUser() {
+func GetUsers() {
 	fmt.Println("Получение всех пользователей")
 }

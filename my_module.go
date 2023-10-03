@@ -3,7 +3,7 @@ package go_for_all
 import (
 	"fmt"
 
-	"github.com/expx-tech/go_for_all/app/service"
+	"github.com/expx-tech/go_for_all/internal/service"
 )
 
 func Request(token, method string) {
